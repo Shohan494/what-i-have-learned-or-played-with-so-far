@@ -13,3 +13,4 @@
 - phaser ( once tried long ago, now tried just a little, nothing that much )
 - javascript freecodecamp problem solving
 - postgresql
+- react basic
