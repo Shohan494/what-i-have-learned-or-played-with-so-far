@@ -16,11 +16,15 @@
 
 ## In between (Time Not Specific, Git repos can tell)
 - semantic ui
-- react native ( basic, little more than that )
+- react native for job interview ( basic, little more than that )
+- node.js
 - 
+#### Timeline 2022
+- c sharp, desktop app (winform)
+- visual studio 2022
 
 #### Timeline 2023
 - phaser ( once tried long ago, now tried just a little, nothing that much )
 - javascript freecodecamp problem solving
-- postgresql
-- react basic
+- postgresql ( just started in june)
+- react basic, react native for basic app
