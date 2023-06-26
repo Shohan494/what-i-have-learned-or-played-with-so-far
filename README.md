@@ -8,3 +8,8 @@
 - laravel
 - git
 - python, **django**
+
+#### Timeline 2023
+- phaser
+- javascript freecodecamp
+- postgresql
