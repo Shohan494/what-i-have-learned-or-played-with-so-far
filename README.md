@@ -1,6 +1,7 @@
 # what-i-have-learned-or-played-with-so-far
 ## have to check github repos, old note images to correct below stuffs
 
+## Skills/Tools
 #### before 2014-2016
 - oracle database basics
 
@@ -14,12 +15,12 @@
 - git
 - python, **django**
 
-## In between (Time Not Specific, Git repos can tell)
+#### In between (Time Not Specific, Git repos can tell)
 - semantic ui
 - react native for job interview ( basic, little more than that )
 - node.js
 
-## Timeline 2018
+#### Timeline 2018
 - basic xml
 - php regex
   
