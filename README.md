@@ -10,6 +10,6 @@
 - python, **django**
 
 #### Timeline 2023
-- phaser
+- phaser ( once tried long ago, now tried just a little, nothing that much )
 - javascript freecodecamp
 - postgresql
