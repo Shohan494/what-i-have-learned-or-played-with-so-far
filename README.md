@@ -11,5 +11,5 @@
 
 #### Timeline 2023
 - phaser ( once tried long ago, now tried just a little, nothing that much )
-- javascript freecodecamp
+- javascript freecodecamp problem solving
 - postgresql
