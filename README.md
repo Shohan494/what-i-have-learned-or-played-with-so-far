@@ -18,7 +18,11 @@
 - semantic ui
 - react native for job interview ( basic, little more than that )
 - node.js
-- 
+
+## Timeline 2018
+- basic xml
+- php regex
+  
 #### Timeline 2022
 - c sharp, desktop app (winform)
 - visual studio 2022
